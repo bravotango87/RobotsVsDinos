@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.exe
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.deps.json
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.runtimeconfig.json
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.runtimeconfig.dev.json
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.dll
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\bin\Debug\netcoreapp3.1\RobotsDino.pdb
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.AssemblyInfo.cs
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.dll
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.pdb
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.genruntimeconfig.cache
+\\Mac\Home\Desktop\devcodecamp\Projects\RobotsVsDinos\RobotsDino\RobotsDino\obj\Debug\netcoreapp3.1\RobotsDino.csprojAssemblyReference.cache

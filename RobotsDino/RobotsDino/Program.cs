@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace RobotsDino
 {
@@ -6,7 +8,11 @@ namespace RobotsDino
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BattleField field = new BattleField();
+            field.AttackRobot(100, 90);
         }
     }
+
+    
+   
 }
