@@ -11,6 +11,7 @@ namespace RobotsDino
             BattleField field = new BattleField();
             field.AttackRobot(100, 90);
         }
+
     }
 
     
