@@ -9,13 +9,41 @@ namespace RobotsDino
         static void Main(string[] args)
         {
             BattleField field = new BattleField();
-            field.AttackRobot(100, 90);
+            field.AttackRobot(60, 90);
             field.AttackDinosaur(100, 15);
-            field.AttackDinosaur(100, 15);
+            field.AttackDinosaur(75, 15);
+            field.AttackRobot(80, 50);
+            field.AttackRobot(70, 30);
         }
+        public BattleField field = new BattleField();
+        
+
+
+
+ 
+           
+
+
+
+        } 
 
     }
 
-    
-   
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

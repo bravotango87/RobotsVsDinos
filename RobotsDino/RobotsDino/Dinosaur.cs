@@ -29,6 +29,13 @@ namespace RobotsDino
             robot.attackPower -= dinosaur.attackPower;
         }
 
+        public void LoseHealth(Dinosaur dinosaur, Robot robot)
+        {
+            robot.attackPower -= dinosaur.health;
+
+        }
+        
+
         
 
 

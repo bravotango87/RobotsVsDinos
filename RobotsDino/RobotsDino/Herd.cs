@@ -12,7 +12,6 @@ namespace RobotsDino
             {
                 dinosaur1.name = "Dino";
                 dinosaur1.health = 100;
-               
                 dinosaur1.attackPower = 10;
             }
         }

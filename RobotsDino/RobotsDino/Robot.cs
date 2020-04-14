@@ -5,7 +5,9 @@ using System.Text;
 namespace RobotsDino
 {
     public class Robot
-    { //member variables (what it has)
+    { 
+        
+        //member variables (what it has)
         public string name;
         public int health;
         public int powerLevel;
