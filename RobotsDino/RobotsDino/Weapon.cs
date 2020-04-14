@@ -6,5 +6,6 @@ namespace RobotsDino
 {
     class Weapon
     {
+
     }
 }
