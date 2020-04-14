@@ -8,17 +8,18 @@ namespace RobotsDino
     {
         public bool AttackRobot(int healthPower, int attackPower)
         {
+            Console.WriteLine("Dinosaur Attacks Robot!");
             int healthLevel = 100;
             int attackLevel = 90;
 
             if(healthPower >= healthLevel && attackPower >= attackLevel)
             {
-                Console.WriteLine("Dinosaur Wins The Round");
+                Console.WriteLine("Dinosaur Wins The Round!");
                 return true;
             }
             else if (healthPower <= healthLevel)
             {
-                Console.WriteLine("Robot Wins The Round");
+                Console.WriteLine("Robot Wins The Round!");
                 return false;
             }
             else
@@ -30,17 +31,18 @@ namespace RobotsDino
 
         public bool AttackDinosaur(int healthPower, int attackPower)
         {
+            Console.WriteLine("Robot Attacks Dinosaur!");
             int healthLevel = 100;
             int attackLevel = 15;
 
             if(healthPower >= healthLevel && attackPower >= attackLevel)
             {
-                Console.WriteLine("Robot Wins The Round");
+                Console.WriteLine("Robot Wins The Round!");
                 return true;
             }
             else if (healthPower <= healthLevel)
             {
-                Console.WriteLine("Dinosaur Wins The Round");
+                Console.WriteLine("Dinosaur Wins The Round!");
                 return false;
             }
             else

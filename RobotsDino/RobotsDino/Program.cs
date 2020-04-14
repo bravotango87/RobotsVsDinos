@@ -10,6 +10,8 @@ namespace RobotsDino
         {
             BattleField field = new BattleField();
             field.AttackRobot(100, 90);
+            field.AttackDinosaur(100, 15);
+            field.AttackDinosaur(100, 15);
         }
 
     }
